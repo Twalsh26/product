@@ -1,0 +1,11 @@
+body {
+    background: rgb(179,138,42);
+background: linear-gradient(180deg, rgba(179,138,42,1) 0%, rgba(150,2,2,1) 100%);
+background-repeat: no-repeat;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
